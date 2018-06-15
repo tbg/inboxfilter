@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "outDir": "./built",
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "noEmitOnError": true,
+        "target": "ES3",
+        "lib": ["ES2015"]
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
